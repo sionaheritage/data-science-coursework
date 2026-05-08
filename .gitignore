@@ -1,0 +1,20 @@
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Python byte-compiled files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+env/
+.env
+
+# MacOS system files
+.DS_Store
+
+# Data files (Optional)
+# If your CSVs are very large, uncomment the line below. 
+# For small coursework datasets, keeping them is usually fine.
+# *.csv
