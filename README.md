@@ -1,6 +1,8 @@
 # Data Science COMP13212 Coursework
 
-A collection of biweekly laboratory assignments focusing on statistical analysis, machine learning classification, and regression techniques I completed for my data science module coursework (COMP13212).
+A collection of biweekly laboratory assignments focusing on statistical analysis, machine learning classification, and regression techniques I completed for my data science module coursework (COMP13212). These applied mathematical concepts in the class computationally, developing experience from hypothesis tests to model training for classification and target prediction.
+
+Below is a description of all 4 graded labs completed, their properties and procedure.
 
 ## Installation & Setup
 1. Clone the repository

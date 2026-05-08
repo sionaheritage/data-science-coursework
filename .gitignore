@@ -14,7 +14,5 @@ env/
 # MacOS system files
 .DS_Store
 
-# Data files (Optional)
-# If your CSVs are very large, uncomment the line below. 
-# For small coursework datasets, keeping them is usually fine.
+# All CSVs are below 100MB, but in case of updates:
 # *.csv
